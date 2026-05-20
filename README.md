@@ -31,7 +31,6 @@ Ensure you have Python 3.10+ installed. Install the required external packages u
 pip install numpy numba
 ```
 
-*(Optional: If you use a `requirements.txt` file, you can simply run `pip install -r requirements.txt`. Your `requirements.txt` should contain at least `numpy` and `numba`).*
 
 ### 2. Running the Code
 
