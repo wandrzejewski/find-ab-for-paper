@@ -37,7 +37,7 @@ pip install numpy numba
 To execute the projection function reconstruction script, run the main Python file from your terminal:
 
 ```bash
-python main.py
+python main_for_paper.py
 ```
 ## License
 
